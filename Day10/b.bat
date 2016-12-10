@@ -1,0 +1,3 @@
+csc indexedproperty.cs
+
+indexedproperty
