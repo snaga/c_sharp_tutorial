@@ -1,9 +1,9 @@
 ## Day3
 
-* ‘½ŽŸŒ³”z—ñ‚ÌŽž‚ÉŠeŽŸŒ³‚Ì’·‚³‚ðŽæ“¾‚·‚é•û–@‚ª•ª‚©‚ç‚È‚¢B
-* int[,] a = new int[3,2] ‚Æ‚µ‚½‚ç a.Length ‚Í 6 ‚Æ‚È‚é‚Ì‚ÅA3‚â2‚ÍƒR[ƒh‘¤‚ÅŠo‚¦‚Ä‚¨‚­•K—v‚ª‚ ‚éB
-    * ˆêŽŸŒ³“I‚ÈƒAƒNƒZƒX‚Í‚Å‚«‚È‚¢B
-* ƒWƒƒƒO”z—ñ‚ðŽg‚¤‚ÆAŠeŽŸŒ³‚Ì’·‚³‚ðŽæ“¾‚Å‚«‚é‚Ì‚ÅAnested loop‚ðŠy‚É‘‚¯‚éB
-* push/pop ‚â append/remove “I‚È‚Ì‚Í–³‚¢‚Ì‚¾‚ë‚¤‚©H
-    * Stack<T> ‚ðŽg‚¢‚Ü‚µ‚å‚¤A‚Æ‚¢‚¤‚±‚Æ‚©‚ÈB
+* å¤šæ¬¡å…ƒé…åˆ—ã®æ™‚ã«å„æ¬¡å…ƒã®é•·ã•ã‚’å–å¾—ã™ã‚‹ã«ã¯ GetLength(X) ãƒ¡ã‚½ãƒƒãƒ‰ã‚’ä½¿ã†ã€‚
+    * int[,] a = new int[3,2] ã®æ™‚ã€a.GetLength(0) == 3 ã§ a.GetLength(1) == 2 ã¨ãªã‚‹ã€‚
+    * a.Length ã¯ 6 ã¨ãªã‚‹ã€‚
+* ã‚¸ãƒ£ã‚°é…åˆ—ã‚’ä½¿ã†ã¨ã€å„æ¬¡å…ƒã®é•·ã•ã‚’å–å¾—ã§ãã‚‹ã®ã§ã€nested loopã‚’æ¥½ã«æ›¸ã‘ã‚‹ã€‚
+* push/pop ã‚„ append/remove çš„ãªã®ã¯ç„¡ã„ã®ã ã‚ã†ã‹ï¼Ÿ
+    * Stack<T> ã‚’ä½¿ã„ã¾ã—ã‚‡ã†ã€ã¨ã„ã†ã“ã¨ã‹ãªã€‚
 	* https://msdn.microsoft.com/ja-jp/library/3278tedw(v=vs.110).aspx
